@@ -10,5 +10,5 @@ function asignarNombre(){
 salir.addEventListener('click', redireccionar);
 
 function redireccionar(){
-    window.location.href = './login.html'
+    window.location.href = './index.html'
 }

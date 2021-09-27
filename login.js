@@ -17,7 +17,7 @@ function validar()
         }
         else{
             localStorage.setItem('usuario', user.value);
-            window.location.href = './index.html'  
+            window.location.href = './principal.html'  
         }
     }
 }
